@@ -1,4 +1,7 @@
-# Guides
+---
+layout: page
+title: Guides
+---
 
 Some guides written by guildies! Study Up.
 
